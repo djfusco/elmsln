@@ -19,6 +19,8 @@ How you will keep our community awesome:
 * Accepting constructive criticism
 * Acting in the best interests of the community
 * Only promoting and utilizing Free Open Source Solutions (FOSS)
+* Taking on the role that everyone involved plays an equal and responsible part
+
 
 Behaviors our community will not tolerate:
 
@@ -26,6 +28,7 @@ Behaviors our community will not tolerate:
 * Unwelcome sexual attention or advances
 * Trolling - derogatory interactions and personal or political attacks
 * Doxing - publishing others' private information without permission
+* Demeaning - treating someone's opinion as irrelevant or unimportant 
 * Any conduct reasonably considered inappropriate in professional settings
 
 ## Our responsibilities
