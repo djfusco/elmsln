@@ -13,6 +13,8 @@ This is the vision statement as laid out by Bryan Ollendyke, btopro, the first p
 - To strive toward zero cost education through the production of open source technologies, libraries, content, and schemata.
 - To create a pathway toward sustainable innovation in educational technology.
 - To make the web at large freer, more accessible, cost less to produce, and be more engaging then it was before us.
+- To empower the learner to leverage technologies that enhance the education experience through the use of self-customized solutions.
+
 
 By focusing on these ideals of improving access to education, using open source as a vehicle of change, we can improve the world around us. We will.
 
